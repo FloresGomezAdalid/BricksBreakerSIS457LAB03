@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BricksBreaker",
+			"Path": "C:\\Users\\Adalid\\Documents\\Unreal Projects\\BricksBreaker\\Source\\BricksBreaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BricksBreakerEditor",
+			"Path": "C:\\Users\\Adalid\\Documents\\Unreal Projects\\BricksBreaker\\Source\\BricksBreakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

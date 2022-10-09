@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Adalid\\Documents\\Unreal Projects\\BricksBreaker\\Source\\BricksBreaker\\BricksBreaker.Build.cs",
+		"C:\\Users\\Adalid\\Documents\\Unreal Projects\\BricksBreaker\\Source\\BricksBreaker.Target.cs",
+		"C:\\Users\\Adalid\\Documents\\Unreal Projects\\BricksBreaker\\Source\\BricksBreakerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
